@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Malik Laaet
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning HTML, CSS, JS, NODEJS, SQL
